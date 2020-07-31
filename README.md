@@ -1,5 +1,5 @@
 # Mafe
-Command line interface tool for iOS and Android tester to interact with mobile devices.
+Command line interface tool for iOS and Android tester to communicate with mobile devices. It can be used to automate tedious tasks such as installing, uninstalling, starting and stopping applications on your devices
 
 ## Requirements
 Python 3.6 and above
