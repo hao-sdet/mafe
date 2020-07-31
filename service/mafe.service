@@ -1,0 +1,11 @@
+[Unit]
+Description=Mafe Service
+After=multi-user.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/python3 /usr/bin/mafe
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
