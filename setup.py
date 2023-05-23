@@ -30,7 +30,7 @@ setup(
     license='MIT',
     install_requires=[
         'cement==3.0.2',
-        'requests==2.24.0',
+        'requests==2.31.0',
         'tabulate==0.8.7',
         'python-socketio==4.6.0'
     ],
